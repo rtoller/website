@@ -12,9 +12,9 @@ Creating local branch of Women Who Code in Wichita. This project will serve as a
 
 <h4>Technologies</h4>
 <ul>
-	<li><a href="//w3schools.com/html">HTML</a></li>
-	<li><a href="//w3schools.com/css">CSS</a></li>
-	<li><a href="//w3schools.com/js">Javascript</a></li>
-	<li><a href="//jquery.com">jQuery</a></li>
-	<li><a href="//getbootstrap.com">Bootstrap</a></li>
+	<li><a href="http://www.w3schools.com/html">HTML</a></li>
+	<li><a href="http://www.w3schools.com/css">CSS</a></li>
+	<li><a href="http://www.w3schools.com/js">Javascript</a></li>
+	<li><a href="http://www.jquery.com">jQuery</a></li>
+	<li><a href="http://www.getbootstrap.com">Bootstrap</a></li>
 </ul>
